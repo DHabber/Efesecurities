@@ -1,1 +1,1 @@
-alert("HALLO DER HOWDYDOODL")
+alert("Hibbledibblededee")
