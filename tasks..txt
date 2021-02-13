@@ -1,0 +1,5 @@
+tasks:
+
+1: create uploader that can read an exact paragraph from a word document and upload to the site
+2: create uploader that can read an exact paragraph from an excel document and upload to the site
+3: create uploader that can save word and exceld documents to a database (XAMPP)
